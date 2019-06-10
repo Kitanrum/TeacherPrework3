@@ -81,4 +81,4 @@ function handleLight(){
     
 }
 
-handleLight
+handleLight();
